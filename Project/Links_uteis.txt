@@ -1,4 +1,5 @@
 Montando a rede neural : ==> https://github.com/DobiSam/Rede-neural/blob/master/Rede_Neural_backpropagation.ipynb
+https://github.com/lucasvalentim/adaline/blob/master/adaline_testes.ipynb
 https://github.com/arnaldog12/Machine_Learning/blob/master/Redes%20Neurais.ipynb
 https://medium.com/ensina-ai/rede-neural-perceptron-multicamadas-f9de8471f1a9
 https://www.digitalocean.com/community/tutorials/como-construir-uma-rede-neural-para-reconhecer-digitos-manuscritos-com-o-tensorflow-pt
