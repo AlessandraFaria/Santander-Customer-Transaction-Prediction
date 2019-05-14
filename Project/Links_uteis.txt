@@ -1,4 +1,8 @@
-Montando a rede neural :https://profes.com.br/gabrielbgab/blog/como-construir-uma-rede-neural-em-python
+Montando a rede neural : ==> https://github.com/DobiSam/Rede-neural/blob/master/Rede_Neural_backpropagation.ipynb
+https://github.com/arnaldog12/Machine_Learning/blob/master/Redes%20Neurais.ipynb
+https://medium.com/ensina-ai/rede-neural-perceptron-multicamadas-f9de8471f1a9
+https://www.digitalocean.com/community/tutorials/como-construir-uma-rede-neural-para-reconhecer-digitos-manuscritos-com-o-tensorflow-pt
+https://profes.com.br/gabrielbgab/blog/como-construir-uma-rede-neural-em-python
 http://deeplearningbook.com.br/construindo-uma-rede-neural-com-linguagem-python/
 
 
@@ -20,3 +24,4 @@ ver a rn
 
 
 futuro trabalho : https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806
+https://towardsdatascience.com/a-convolutional-neural-network-tutorial-in-keras-and-tensorflow-2-2bff79f477c0
