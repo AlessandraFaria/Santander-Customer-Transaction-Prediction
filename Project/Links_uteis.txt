@@ -1,0 +1,22 @@
+Montando a rede neural :https://profes.com.br/gabrielbgab/blog/como-construir-uma-rede-neural-em-python
+http://deeplearningbook.com.br/construindo-uma-rede-neural-com-linguagem-python/
+
+
+https://datahackers.com.br/newsletter/como-criar-um-modelo-de-machine-learning-pronto-para-deploy-data-hackers
+
+17 ferramentas tecnológicas para se contar boas histórias : https://medium.com/dgtl-mente/uma-lista-de-ferramentas-tecnol%C3%B3gicas-para-se-contar-boas-hist%C3%B3rias-ebf492cf892d
+
+Usar o Justapost para comparar o grafico da base com over e com under
+Criar uma capa com o Canvas
+Storyform : usar par5a explicar transações bancárias
+usar o Infogr.am para criar um arquivo com os resultados finais
+
+
+Quando falar de RN
+https://cdn-images-1.medium.com/max/1600/1*PAqzvCxPjpDN8RC9HQw45w.jpeg
+
+ver a rn
+:https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e
+
+
+futuro trabalho : https://towardsdatascience.com/generating-music-with-artificial-intelligence-9ce3c9eef806
